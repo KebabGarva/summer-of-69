@@ -1,2 +1,2 @@
 # summer-of-69
-oh yeah!
+This repository is created as an exercise done during the class.
